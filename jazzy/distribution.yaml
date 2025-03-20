@@ -5,6 +5,8 @@
 release_platforms:
   debian:
   - trixie
+  ubuntu:
+  - noble
 repositories:
   SMACC2:
     doc:
