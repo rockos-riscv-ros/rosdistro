@@ -83,7 +83,7 @@ distributions:
     python_version: 2
   jazzy:
     distribution: [jazzy/distribution.yaml]
-    distribution_cache: http://repo.ros2.org/rosdistro_cache/jazzy-cache.yaml.gz
+    distribution_cache: http://100.99.24.45:8888/rosdistro_cache/jazzy-cache.yaml.gz
     distribution_status: active
     distribution_type: ros2
     python_version: 3
