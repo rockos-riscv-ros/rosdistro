@@ -4,11 +4,7 @@
 ---
 release_platforms:
   debian:
-  - bookworm
-  rhel:
-  - '9'
-  ubuntu:
-  - noble
+  - trixie
 repositories:
   SMACC2:
     doc:
