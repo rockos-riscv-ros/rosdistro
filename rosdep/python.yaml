@@ -904,7 +904,7 @@ python-catkin-pkg-modules:
     pip:
       packages: [catkin-pkg]
   arch: [python2-catkin_pkg]
-  debian: [python-catkin-pkg-modules]
+  debian: [python-catkin-pkg]
   fedora: [python-catkin_pkg]
   freebsd:
     pip:
@@ -3567,7 +3567,7 @@ python-rosdep-modules:
     pip:
       packages: [rosdep]
   arch: [python2-rosdep]
-  debian: [python-rosdep-modules]
+  debian: [python-rosdep]
   fedora: [python-rosdep]
   freebsd:
     pip:
@@ -3646,7 +3646,7 @@ python-rospkg-modules:
     pip:
       packages: [rospkg]
   arch: [python2-rospkg]
-  debian: [python-rospkg-modules]
+  debian: [python-rospkg]
   fedora: [python-rospkg]
   freebsd:
     pip:
@@ -5262,7 +5262,7 @@ python3-catkin-pkg-modules:
   arch:
     pip:
       packages: [catkin-pkg]
-  debian: [python3-catkin-pkg-modules]
+  debian: [python3-catkin-pkg]
   fedora: [python3-catkin_pkg]
   gentoo: [dev-python/catkin_pkg]
   nixos: [python3Packages.catkin-pkg]
@@ -9397,7 +9397,7 @@ python3-rosdep:
   rhel: ['python%{python3_pkgversion}-rosdep']
   ubuntu: [python3-rosdep]
 python3-rosdep-modules:
-  debian: [python3-rosdep-modules]
+  debian: [python3-rosdep]
   fedora: [python3-rosdep]
   gentoo: [dev-util/rosdep]
   nixos: [python3Packages.rosdep]
@@ -9409,7 +9409,7 @@ python3-rosdistro-modules:
   arch:
     pip:
       packages: [rosdistro]
-  debian: [python3-rosdistro-modules]
+  debian: [python3-rosdistro]
   fedora: [python3-rosdistro]
   gentoo: [dev-python/rosdistro]
   nixos: [python3Packages.rosdistro]
@@ -9444,7 +9444,7 @@ python3-rospkg-modules:
     pip:
       packages: [rospkg]
   arch: [python-rospkg]
-  debian: [python3-rospkg-modules]
+  debian: [python3-rospkg]
   fedora: [python3-rospkg]
   freebsd:
     pip:
@@ -10345,9 +10345,7 @@ python3-transformers-pip:
     pip:
       packages: [transformers]
 python3-transforms3d:
-  debian:
-    pip:
-      packages: [transforms3d]
+  debian: [python3-transforms3d]
   fedora: [python3-transforms3d]
   nixos: [python3Packages.transforms3d]
   ubuntu:
