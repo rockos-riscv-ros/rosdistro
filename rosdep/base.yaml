@@ -2858,6 +2858,7 @@ libboost-date-time:
     bookworm: [libboost-date-time1.81.0]
     bullseye: [libboost-date-time1.74.0]
     buster: [libboost-date-time1.67.0]
+    trixie: [libboost-date-time1.83.0]
   fedora: [boost-date-time]
   gentoo: [dev-libs/boost]
   nixos: [boost]
