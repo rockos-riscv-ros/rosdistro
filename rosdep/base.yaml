@@ -2895,6 +2895,7 @@ libboost-filesystem:
     bookworm: [libboost-filesystem-dev]
     bullseye: [libboost-filesystem1.74.0]
     buster: [libboost-filesystem1.67.0]
+    trixie: [libboost-filesystem1.83.0]
   fedora: [boost-filesystem]
   gentoo: [dev-libs/boost]
   nixos: [boost]
