@@ -5541,6 +5541,7 @@ libpcl-surface:
     bookworm: [libpcl-surface1.13]
     bullseye: [libpcl-surface1.11]
     buster: [libpcl-surface1.9]
+    trixie: [libpcl-surface1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
