@@ -5248,6 +5248,7 @@ libpcl-common:
     bookworm: [libpcl-common1.13]
     bullseye: [libpcl-common1.11]
     buster: [libpcl-common1.9]
+    trixie: [libpcl-common1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
