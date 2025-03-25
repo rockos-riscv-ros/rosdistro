@@ -5305,6 +5305,7 @@ libpcl-io:
     bookworm: [libpcl-io1.13]
     bullseye: [libpcl-io1.11]
     buster: [libpcl-io1.9]
+    trixie: [libpcl-io1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
