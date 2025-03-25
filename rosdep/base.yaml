@@ -5286,6 +5286,7 @@ libpcl-filters:
     bookworm: [libpcl-filters1.13]
     bullseye: [libpcl-filters1.11]
     buster: [libpcl-filters1.9]
+    trixie: [libpcl-filters1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
