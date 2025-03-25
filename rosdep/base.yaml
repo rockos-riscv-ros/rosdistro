@@ -5504,6 +5504,7 @@ libpcl-segmentation:
     bookworm: [libpcl-segmentation1.13]
     bullseye: [libpcl-segmentation1.11]
     buster: [libpcl-segmentation1.9]
+    trixie: [libpcl-segmentation1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
