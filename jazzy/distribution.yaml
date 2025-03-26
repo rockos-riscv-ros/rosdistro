@@ -10294,7 +10294,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/fmrico/yaets-release.git
+      url: https://github.com/rockos-riscv-ros/yaets-release.git
       version: 0.0.2-1
     source:
       type: git
