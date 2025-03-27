@@ -5043,7 +5043,7 @@ repositories:
       - novatel_oem7_msgs
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/novatel-gbp/novatel_oem7_driver-release.git
+      url: https://github.com/rockos-riscv-ros/novatel_oem7_driver-release.git
       version: 24.1.0-1
     source:
       test_pull_requests: true
