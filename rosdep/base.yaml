@@ -3043,6 +3043,7 @@ libboost-random:
     bookworm: [libboost-random1.81.0]
     bullseye: [libboost-random1.74.0]
     buster: [libboost-random1.67.0]
+    trixie: [libboost-random1.83.0]
   fedora: [boost-random]
   gentoo: [dev-libs/boost]
   nixos: [boost]
