@@ -4914,6 +4914,7 @@ libogre-dev:
   arch: [ogre]
   debian:
     buster: [libogre-1.9-dev]
+    trixie: [libogre-1.9-dev]
     stretch: [libogre-1.9-dev]
     wheezy: [libogre-dev]
   fedora: [ogre-devel]
