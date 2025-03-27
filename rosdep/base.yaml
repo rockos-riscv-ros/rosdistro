@@ -4891,6 +4891,7 @@ libogre:
   debian:
     bookworm: [libogre-1.12-dev]
     buster: [libogre-1.9.0v5]
+    trixie: [libogre-1.9-dev]
     stretch: [libogre-1.9.0v5]
     wheezy: [libogre-dev]
   fedora: [ogre-devel]
@@ -4905,6 +4906,7 @@ libogre:
 libogre-1.12-dev:
   debian:
     bullseye: [libogre-1.12-dev]
+    trixie: [libogre-1.12-dev]
   ubuntu:
     focal: [libogre-1.12-dev]
     jammy: [libogre-1.12-dev]
