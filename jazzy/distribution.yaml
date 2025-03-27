@@ -2913,7 +2913,7 @@ repositories:
       tags:
         release: release/jazzy/{package}/{version}
       url: https://github.com/rockos-riscv-ros/gz_ogre_next_vendor-release.git
-      version: 0.0.5-1
+      version: 0.0.5-2
     source:
       test_pull_requests: true
       type: git
