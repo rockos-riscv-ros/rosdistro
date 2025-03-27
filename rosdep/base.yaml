@@ -3148,6 +3148,7 @@ libboost-thread:
     bookworm: [libboost-thread1.81.0]
     bullseye: [libboost-thread1.74.0]
     buster: [libboost-thread1.67.0]
+    trixie: [libboost-thread1.83.0]
   fedora: [boost-thread]
   gentoo: ['dev-libs/boost[threads]']
   nixos: [boost]
