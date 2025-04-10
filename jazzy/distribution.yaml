@@ -8516,7 +8516,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/nobleo/rviz_satellite-release.git
+      url: https://github.com/rockos-riscv-ros/rviz_satellite-release.git
       version: 4.1.0-2
     source:
       type: git
