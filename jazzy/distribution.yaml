@@ -1561,7 +1561,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/luxonis/depthai-core-release.git
+      url: https://github.com/rockos-riscv-ros/depthai-core-release.git
       version: 2.30.0-1
     source:
       type: git
