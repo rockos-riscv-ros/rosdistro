@@ -6043,7 +6043,7 @@ libqt5-websockets-dev:
 libqt5-widgets:
   alpine: [qt5-qtbase-dev]
   arch: [qt5-base]
-  debian: [libqt5widgets5]
+  debian: [libqt5widgets5t64]
   fedora: [qt5-qtbase]
   freebsd: [qt5-widgets]
   gentoo: ['dev-qt/qtwidgets:5']
